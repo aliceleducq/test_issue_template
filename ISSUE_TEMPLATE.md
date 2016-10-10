@@ -1,6 +1,6 @@
 # Contexte
 
-*Si nécessaire, fournissez quelques éléments de contexte*
+*Si nécessaire, fournissez quelques éléments de contexte pur permettre au dev de mieux comprendre*
 
 # Section 1
 
