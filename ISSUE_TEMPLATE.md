@@ -2,7 +2,7 @@
 #Contexte
 *2-3 lignes pour permettre au dev de bien comprendre*
 
-#Solution proposée
+#Spec
 *pour chaque phrase, je me demande si le dev a besoin de cette information :  si la réponse est non, je la supprime !*
 
 Lien Trello:
