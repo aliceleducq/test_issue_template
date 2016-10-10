@@ -22,7 +22,7 @@ Avant de soumettre votre ticket de self-spec :
 - [ ] Pour chaque phrase, je me demande si le dev a besoin de cette information : si la réponse est non, je la supprime !
 - [ ] Je suis précis (inclure des url de l'app pour pointer des endroits par ex)
 - [ ] Un screenshot vaut mieux qu'un long discours
-- [ ] J'inclus les éventuelles ressources graphiques nécessaires (ex: nouveau picto)
+- [ ] J'inclus toutes les ressources nécessaires au traitement du ticket (ex: nouveau picto, formulations français ET anglais)
 - [ ] Une fois terminé, je ping le PM qui ajoutera la milestone et enlèvera le label "rejected" !
 
 Pour en savoir plus https://team.360learning.com/#course/play/57d949cccaaeb10ad5d51801
