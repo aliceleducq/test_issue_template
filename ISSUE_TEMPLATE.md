@@ -1,19 +1,29 @@
+# Contexte
 
-#Contexte
-*2-3 lignes pour permettre au dev de bien comprendre*
+*Si nécessaire, fournissez quelques éléments de contexte*
 
-#Spec
-*pour chaque phrase, je me demande si le dev a besoin de cette information :  si la réponse est non, je la supprime !*
+# Section 1
+
+*Découpez votre ticket en sections*
+
+# Section 2
+
+*...* 
+
+# Notes
 
 Lien Trello:
 
 --------
 
-Self check pour self spec : 
+Avant de soumettre votre ticket de self-spec : 
 
-- [ ] je tag en label rejected si je ne suis pas PM
-- [ ] je suis précis (inclure des url de l'app pour pointer des endroits par ex)
-- [ ] un screenshot vaut mieux qu'un long discours
-- [ ] j'inclus les éventuelles ressources graphiques nécessaires (ex: nouveau picto)
-- [ ] si ma carte est longue, je la découpe en sections
-- [ ] une fois terminé, je ping le PM qui ajoutera la milestone et enleverra le label rejected !
+- [ ] Je tag en label "rejected" si je ne suis pas PM
+- [ ] Pour chaque phrase, je me demande si le dev a besoin de cette information : si la réponse est non, je la supprime !
+- [ ] Je suis précis (inclure des url de l'app pour pointer des endroits par ex)
+- [ ] Un screenshot vaut mieux qu'un long discours
+- [ ] J'inclus les éventuelles ressources graphiques nécessaires (ex: nouveau picto)
+- [ ] Une fois terminé, je ping le PM qui ajoutera la milestone et enlèvera le label "rejected" !
+
+Pour en savoir plus https://team.360learning.com/#course/play/57d949cccaaeb10ad5d51801
+
